@@ -1,2 +1,3 @@
-# pyLearning
-Some stuff about python.
+# Learning python.
+Hope to make some differences someday.
+Good luck.
